@@ -1,0 +1,195 @@
+Epoch 1/100 [Training]: 100%|██████████| 290/290 [02:39<00:00,  1.81it/s]
+Epoch 1/100 [Validation]: 100%|██████████| 63/63 [00:21<00:00,  2.91it/s]
+Epoch [1/100]
+Train Loss: 0.5945, Train Accuracy: 0.6630
+Val Loss: 0.5099, Val Accuracy: 0.7295
+Val Precision: 0.7271, Val Recall: 0.7351, Val F1-Score: 0.7311
+Saved best model with validation recall: 0.7351
+Epoch 2/100 [Training]: 100%|██████████| 290/290 [02:39<00:00,  1.81it/s]
+Epoch 2/100 [Validation]: 100%|██████████| 63/63 [00:21<00:00,  2.92it/s]
+Epoch [2/100]
+Train Loss: 0.4612, Train Accuracy: 0.7684
+Val Loss: 0.4367, Val Accuracy: 0.7763
+Val Precision: 0.7776, Val Recall: 0.7744, Val F1-Score: 0.7760
+Saved best model with validation recall: 0.7744
+Epoch 3/100 [Training]: 100%|██████████| 290/290 [02:39<00:00,  1.82it/s]
+Epoch 3/100 [Validation]: 100%|██████████| 63/63 [00:21<00:00,  2.90it/s]
+Epoch [3/100]
+Train Loss: 0.4099, Train Accuracy: 0.7984
+Val Loss: 0.3862, Val Accuracy: 0.8050
+Val Precision: 0.7930, Val Recall: 0.8258, Val F1-Score: 0.8091
+Saved best model with validation recall: 0.8258
+Epoch 4/100 [Training]: 100%|██████████| 290/290 [02:39<00:00,  1.82it/s]
+Epoch 4/100 [Validation]: 100%|██████████| 63/63 [00:21<00:00,  2.91it/s]
+Epoch [4/100]
+Train Loss: 0.3711, Train Accuracy: 0.8215
+Val Loss: 0.3847, Val Accuracy: 0.8060
+Val Precision: 0.8393, Val Recall: 0.7573, Val F1-Score: 0.7962
+Epoch 5/100 [Training]: 100%|██████████| 290/290 [02:38<00:00,  1.82it/s]
+Epoch 5/100 [Validation]: 100%|██████████| 63/63 [00:21<00:00,  2.93it/s]
+Epoch [5/100]
+Train Loss: 0.3399, Train Accuracy: 0.8391
+Val Loss: 0.3540, Val Accuracy: 0.8267
+Val Precision: 0.8405, Val Recall: 0.8066, Val F1-Score: 0.8232
+Epoch 6/100 [Training]: 100%|██████████| 290/290 [02:38<00:00,  1.83it/s]
+Epoch 6/100 [Validation]: 100%|██████████| 63/63 [00:21<00:00,  2.95it/s]
+Epoch [6/100]
+Train Loss: 0.3274, Train Accuracy: 0.8458
+Val Loss: 0.3385, Val Accuracy: 0.8398
+Val Precision: 0.8788, Val Recall: 0.7885, Val F1-Score: 0.8312
+Epoch 7/100 [Training]: 100%|██████████| 290/290 [02:37<00:00,  1.84it/s]
+Epoch 7/100 [Validation]: 100%|██████████| 63/63 [00:20<00:00,  3.06it/s]
+Epoch [7/100]
+Train Loss: 0.3051, Train Accuracy: 0.8613
+Val Loss: 0.3442, Val Accuracy: 0.8307
+Val Precision: 0.8262, Val Recall: 0.8379, Val F1-Score: 0.8320
+Saved best model with validation recall: 0.8379
+Epoch 8/100 [Training]: 100%|██████████| 290/290 [02:35<00:00,  1.87it/s]
+Epoch 8/100 [Validation]: 100%|██████████| 63/63 [00:20<00:00,  3.04it/s]
+Epoch [8/100]
+Train Loss: 0.2893, Train Accuracy: 0.8700
+Val Loss: 0.3332, Val Accuracy: 0.8363
+Val Precision: 0.8151, Val Recall: 0.8701, Val F1-Score: 0.8417
+Saved best model with validation recall: 0.8701
+Epoch 9/100 [Training]: 100%|██████████| 290/290 [02:35<00:00,  1.87it/s]
+Epoch 9/100 [Validation]: 100%|██████████| 63/63 [00:20<00:00,  3.05it/s]
+Epoch [9/100]
+Train Loss: 0.2855, Train Accuracy: 0.8714
+Val Loss: 0.2905, Val Accuracy: 0.8610
+Val Precision: 0.8842, Val Recall: 0.8308, Val F1-Score: 0.8567
+Epoch 10/100 [Training]: 100%|██████████| 290/290 [02:35<00:00,  1.87it/s]
+Epoch 10/100 [Validation]: 100%|██████████| 63/63 [00:20<00:00,  3.06it/s]
+Epoch [10/100]
+Train Loss: 0.2637, Train Accuracy: 0.8812
+Val Loss: 0.3059, Val Accuracy: 0.8569
+Val Precision: 0.8808, Val Recall: 0.8258, Val F1-Score: 0.8524
+Epoch 11/100 [Training]: 100%|██████████| 290/290 [02:35<00:00,  1.86it/s]
+Epoch 11/100 [Validation]: 100%|██████████| 63/63 [00:20<00:00,  3.05it/s]
+Epoch [11/100]
+Train Loss: 0.2638, Train Accuracy: 0.8818
+Val Loss: 0.3027, Val Accuracy: 0.8524
+Val Precision: 0.8889, Val Recall: 0.8056, Val F1-Score: 0.8452
+Epoch 12/100 [Training]: 100%|██████████| 290/290 [02:35<00:00,  1.87it/s]
+Epoch 12/100 [Validation]: 100%|██████████| 63/63 [00:20<00:00,  3.05it/s]
+Epoch [12/100]
+Train Loss: 0.2538, Train Accuracy: 0.8850
+Val Loss: 0.2653, Val Accuracy: 0.8751
+Val Precision: 0.8917, Val Recall: 0.8540, Val F1-Score: 0.8724
+Epoch 13/100 [Training]: 100%|██████████| 290/290 [02:35<00:00,  1.87it/s]
+Epoch 13/100 [Validation]: 100%|██████████| 63/63 [00:20<00:00,  3.05it/s]
+Epoch [13/100]
+Train Loss: 0.2519, Train Accuracy: 0.8859
+Val Loss: 0.2680, Val Accuracy: 0.8680
+Val Precision: 0.8637, Val Recall: 0.8741, Val F1-Score: 0.8689
+Saved best model with validation recall: 0.8741
+Epoch 14/100 [Training]: 100%|██████████| 290/290 [02:35<00:00,  1.86it/s]
+Epoch 14/100 [Validation]: 100%|██████████| 63/63 [00:20<00:00,  3.05it/s]
+Epoch [14/100]
+Train Loss: 0.2350, Train Accuracy: 0.8915
+Val Loss: 0.2594, Val Accuracy: 0.8776
+Val Precision: 0.8684, Val Recall: 0.8902, Val F1-Score: 0.8792
+Saved best model with validation recall: 0.8902
+Epoch 15/100 [Training]: 100%|██████████| 290/290 [02:35<00:00,  1.86it/s]
+Epoch 15/100 [Validation]: 100%|██████████| 63/63 [00:20<00:00,  3.05it/s]
+Epoch [15/100]
+Train Loss: 0.2276, Train Accuracy: 0.8990
+Val Loss: 0.2613, Val Accuracy: 0.8796
+Val Precision: 0.8755, Val Recall: 0.8852, Val F1-Score: 0.8803
+Epoch 16/100 [Training]: 100%|██████████| 290/290 [02:35<00:00,  1.86it/s]
+Epoch 16/100 [Validation]: 100%|██████████| 63/63 [00:20<00:00,  3.05it/s]
+Epoch [16/100]
+Train Loss: 0.2252, Train Accuracy: 0.8972
+Val Loss: 0.2645, Val Accuracy: 0.8715
+Val Precision: 0.8712, Val Recall: 0.8721, Val F1-Score: 0.8717
+Epoch 17/100 [Training]: 100%|██████████| 290/290 [02:35<00:00,  1.87it/s]
+Epoch 17/100 [Validation]: 100%|██████████| 63/63 [00:20<00:00,  3.05it/s]
+Epoch [17/100]
+Train Loss: 0.2198, Train Accuracy: 0.9026
+Val Loss: 0.2450, Val Accuracy: 0.8786
+Val Precision: 0.8701, Val Recall: 0.8902, Val F1-Score: 0.8800
+Epoch 18/100 [Training]: 100%|██████████| 290/290 [02:35<00:00,  1.86it/s]
+Epoch 18/100 [Validation]: 100%|██████████| 63/63 [00:20<00:00,  3.06it/s]
+Epoch [18/100]
+Train Loss: 0.2207, Train Accuracy: 0.8997
+Val Loss: 0.2711, Val Accuracy: 0.8766
+Val Precision: 0.8945, Val Recall: 0.8540, Val F1-Score: 0.8738
+Epoch 19/100 [Training]: 100%|██████████| 290/290 [02:35<00:00,  1.86it/s]
+Epoch 19/100 [Validation]: 100%|██████████| 63/63 [00:20<00:00,  3.05it/s]
+Epoch [19/100]
+Train Loss: 0.2038, Train Accuracy: 0.9098
+Val Loss: 0.2525, Val Accuracy: 0.8877
+Val Precision: 0.8660, Val Recall: 0.9174, Val F1-Score: 0.8910
+Saved best model with validation recall: 0.9174
+Epoch 20/100 [Training]: 100%|██████████| 290/290 [02:35<00:00,  1.86it/s]
+Epoch 20/100 [Validation]: 100%|██████████| 63/63 [00:20<00:00,  3.04it/s]
+Epoch [20/100]
+Train Loss: 0.1984, Train Accuracy: 0.9134
+Val Loss: 0.2685, Val Accuracy: 0.8705
+Val Precision: 0.8940, Val Recall: 0.8409, Val F1-Score: 0.8666
+Epoch 21/100 [Training]: 100%|██████████| 290/290 [02:36<00:00,  1.86it/s]
+Epoch 21/100 [Validation]: 100%|██████████| 63/63 [00:21<00:00,  2.97it/s]
+Epoch [21/100]
+Train Loss: 0.1976, Train Accuracy: 0.9127
+Val Loss: 0.2637, Val Accuracy: 0.8771
+Val Precision: 0.9147, Val Recall: 0.8318, Val F1-Score: 0.8713
+Epoch 22/100 [Training]: 100%|██████████| 290/290 [02:36<00:00,  1.85it/s]
+Epoch 22/100 [Validation]: 100%|██████████| 63/63 [00:21<00:00,  2.99it/s]
+Epoch [22/100]
+Train Loss: 0.1950, Train Accuracy: 0.9139
+Val Loss: 0.2450, Val Accuracy: 0.8791
+Val Precision: 0.8815, Val Recall: 0.8761, Val F1-Score: 0.8788
+Epoch 23/100 [Training]: 100%|██████████| 290/290 [02:36<00:00,  1.85it/s]
+Epoch 23/100 [Validation]: 100%|██████████| 63/63 [00:21<00:00,  2.99it/s]
+Epoch [23/100]
+Train Loss: 0.1994, Train Accuracy: 0.9113
+Val Loss: 0.2497, Val Accuracy: 0.8882
+Val Precision: 0.8946, Val Recall: 0.8802, Val F1-Score: 0.8873
+Epoch 24/100 [Training]: 100%|██████████| 290/290 [02:36<00:00,  1.86it/s]
+Epoch 24/100 [Validation]: 100%|██████████| 63/63 [00:21<00:00,  2.99it/s]
+Epoch [24/100]
+Train Loss: 0.1850, Train Accuracy: 0.9201
+Val Loss: 0.2852, Val Accuracy: 0.8786
+Val Precision: 0.8514, Val Recall: 0.9174, Val F1-Score: 0.8832
+Epoch 25/100 [Training]: 100%|██████████| 290/290 [02:36<00:00,  1.85it/s]
+Epoch 25/100 [Validation]: 100%|██████████| 63/63 [00:21<00:00,  2.99it/s]
+Epoch [25/100]
+Train Loss: 0.1855, Train Accuracy: 0.9213
+Val Loss: 0.2455, Val Accuracy: 0.8872
+Val Precision: 0.8849, Val Recall: 0.8902, Val F1-Score: 0.8876
+Epoch 26/100 [Training]: 100%|██████████| 290/290 [02:36<00:00,  1.86it/s]
+Epoch 26/100 [Validation]: 100%|██████████| 63/63 [00:21<00:00,  2.99it/s]
+Epoch [26/100]
+Train Loss: 0.1851, Train Accuracy: 0.9190
+Val Loss: 0.2453, Val Accuracy: 0.8861
+Val Precision: 0.8824, Val Recall: 0.8912, Val F1-Score: 0.8868
+Epoch 27/100 [Training]: 100%|██████████| 290/290 [02:37<00:00,  1.84it/s]
+Epoch 27/100 [Validation]: 100%|██████████| 63/63 [00:21<00:00,  2.88it/s]
+Epoch [27/100]
+Train Loss: 0.1810, Train Accuracy: 0.9203
+Val Loss: 0.2325, Val Accuracy: 0.8861
+Val Precision: 0.8749, Val Recall: 0.9013, Val F1-Score: 0.8879
+Epoch 28/100 [Training]: 100%|██████████| 290/290 [02:39<00:00,  1.82it/s]
+Epoch 28/100 [Validation]: 100%|██████████| 63/63 [00:21<00:00,  2.91it/s]
+Epoch [28/100]
+Train Loss: 0.1862, Train Accuracy: 0.9184
+Val Loss: 0.2355, Val Accuracy: 0.8942
+Val Precision: 0.8999, Val Recall: 0.8872, Val F1-Score: 0.8935
+Epoch 29/100 [Training]: 100%|██████████| 290/290 [02:39<00:00,  1.82it/s]
+Epoch 29/100 [Validation]: 100%|██████████| 63/63 [00:21<00:00,  2.96it/s]
+Epoch [29/100]
+Train Loss: 0.1723, Train Accuracy: 0.9220
+Val Loss: 0.2318, Val Accuracy: 0.8942
+Val Precision: 0.8959, Val Recall: 0.8922, Val F1-Score: 0.8940
+Epoch 30/100 [Training]: 100%|██████████| 290/290 [02:37<00:00,  1.84it/s]
+Epoch 30/100 [Validation]: 100%|██████████| 63/63 [00:21<00:00,  2.96it/s]
+Epoch [30/100]
+Train Loss: 0.1690, Train Accuracy: 0.9242
+Val Loss: 0.2256, Val Accuracy: 0.9013
+Val Precision: 0.9173, Val Recall: 0.8822, Val F1-Score: 0.8994
+Epoch 31/100 [Training]: 100%|██████████| 290/290 [02:40<00:00,  1.81it/s]
+Epoch 31/100 [Validation]: 100%|██████████| 63/63 [00:21<00:00,  2.89it/s]Epoch [31/100]
+Train Loss: 0.1699, Train Accuracy: 0.9232
+Val Loss: 0.2257, Val Accuracy: 0.8907
+Val Precision: 0.9008, Val Recall: 0.8781, Val F1-Score: 0.8893
+Early stopping triggered after 12 epochs of no improvement.
+Best model saved from epoch 19 with recall: 0.9174
